@@ -1,2 +1,2 @@
 # SocialNet-UI
-The UI of a Social network I built.
+The UI of a Social network I am building
